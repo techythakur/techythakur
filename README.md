@@ -65,6 +65,8 @@
 </p>
 
 <hr style="height:4px; width: 100px;color:purple; background-color:purple">
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=techythakur&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="techythakur" /></p>
+<p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=techythakur&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="techythakur" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=techythakur&theme=midnight-purple&show_icons=true&locale=en" alt="techythakur" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=techythakur&theme=midnight-purple&show_icons=true&locale=en" alt="techythakur" />
+</p>

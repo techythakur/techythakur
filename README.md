@@ -1,6 +1,8 @@
+![18053057](https://user-images.githubusercontent.com/65844095/125189537-3473c800-e256-11eb-86a8-5d32ad4fc01d.jpg)
+
+
 <h1 align="center">Hi 👋, I'm Aman Kumar Thakur</h1>
 <h3 align="center">Front End Developer | Flutter Developer</h3>
-<hr style="height:2px;border-width:0;color:#280137;background-color:#280137">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techythakur&label=Profile%20views&color=0e75b6&style=flat" alt="techythakur" /> </p>
 
@@ -14,13 +16,19 @@
 
 - 📫 You can shoot me an email at **amanthakur0203@gmail.com**
 
+
+<hr style="height:4px; width: 100px;color:purple; background-color:purple">
+<img align="right" src="https://user-images.githubusercontent.com/65844095/125189586-6c7b0b00-e256-11eb-8ad3-8cf1e30a274a.jpg"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
-<a href="https://linkedin.com/in/Aman Kumar Thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aman Kumar Thakur" height="30" width="40" /></a>
-<a href="https://instagram.com/thakuraman_0203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thakuraman_0203" height="30" width="40" /></a>
-  
+  <a href="https://linkedin.com/in/Aman Kumar Thakur" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aman Kumar Thakur" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/thakuraman_0203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thakuraman_0203" height="30" width="40" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -56,6 +64,7 @@
   </a> 
 </p>
 
+<hr style="height:4px; width: 100px;color:purple; background-color:purple">
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=techythakur&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="techythakur" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techythakur&theme=midnight-purple&show_icons=true&locale=en" alt="techythakur" /></p>

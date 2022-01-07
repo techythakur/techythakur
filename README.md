@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techythakur&label=Profile%20views&color=0e75b6&style=flat" alt="techythakur" /> </p>
 
-- 🔭 I’m currently working on **Data structures and Competitive Programming**
+- 🔭 I’m currently working on **Data Structures and Problem solving Skills**
 
 - 🌱 I’m currently learning **Flutter and RASA**
 

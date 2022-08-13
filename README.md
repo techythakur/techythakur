@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/Aman Kumar Thakur" target="blank">
+  <a href="https://www.linkedin.com/in/aman-kumar-thakur-3811b71aa/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aman Kumar Thakur" height="30" width="40" />
   </a>
   <a href="https://instagram.com/thakuraman_0203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thakuraman_0203" height="30" width="40" />

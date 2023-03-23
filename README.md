@@ -8,13 +8,12 @@
 
 - 🔭 I’m currently working on **Data Structures and Problem solving Skills**
 
-- 🌱 I’m currently learning **Flutter and RASA**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Feel free to reach out to me for volunteering, or just for some interesting discussion.
 
-- ✍️  In my free time, I pursue **Graphic Design** as a hobby/side hustles.
+- ✍️  In my free time, I pursue **Graphic Design and take Mentoring Sessions** as a hobby/side hustles.
 
-- 📫 You can shoot me an email at **amanthakur0203@gmail.com**
 
 
 <hr style="height:4px; width: 100px;color:purple; background-color:purple">

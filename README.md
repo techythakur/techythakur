@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Aman Kumar Thakur</h1>
-<h3 align="center">Web Developer | Flutter Developer</h3>
+<h3 align="center">Junior Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techythakur&label=Profile%20views&color=0e75b6&style=flat" alt="techythakur" /> </p>
 
